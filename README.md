@@ -74,7 +74,7 @@ Use the command-line version. Works for Ganache, Kovan, and Mainnet:
 
 ### Kovan, Mainnet
 
-1. Please use https://github.com/tornadocash/tornado-cli
+1. Please use https://github.com/tornadocash2/tornado-cli
    Reason: because tornado-core uses websnark `2041cfa5fa0b71cd5cca9022a4eeea4afe28c9f7` commit hash in order to work with local trusted setup. Tornado-cli uses `4c0af6a8b65aabea3c09f377f63c44e7a58afa6d` commit with production trusted setup of tornadoCash
 
 Example:
